@@ -16,8 +16,7 @@
 lang: ko-KR
 title: Ave Munde!
 email: sookim.econ@gmail.com
-description: >-
-        "This is to test whether I can write a collection of simple sentences in Korean. Of course, collection of sentence does not mean anything: It is just a waist of time. Sometimes, however, you need to devote your time on something that is not worth itself."
+description: Yet Another Blog
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "http://sookim-econ.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 
@@ -35,7 +34,7 @@ algolia:
   index_name: # YOUR_INDEX_NAME
   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
-
+copyright: "Empty right."
 # Build settings
 markdown: kramdown
 highlighter: rouge
