@@ -22,7 +22,7 @@ url: "http://sookim-econ.github.io" # the base hostname & protocol for your site
 author: 
   name: Soo Kim
   twitter:
-  picture:
+  picture: "assets/images/profile.jpg"
 twitter_username:
 github_username: sookim-econ
 logo: # path of site logo, e.g. "/assets/images/logo.png"
