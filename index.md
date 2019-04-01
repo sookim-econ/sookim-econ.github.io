@@ -1,7 +1,7 @@
 ---
 layout: home
 paginate: true
-alt_title: "Ave Munde"
+alt_title: "Ave,"
 sub_title: 
 image: /assets/images/schoolOfAthens.jpg
 introduction: |
