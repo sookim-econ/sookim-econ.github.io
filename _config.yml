@@ -38,7 +38,7 @@ copyright: "Empty right."
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: jekyll-theme-basically-basic
+remote-theme: mmistakes/jekyll-theme-basically-basic
 excerpt_separator: "\n\n"
 incremental: false
 plugins: # previsously gems
