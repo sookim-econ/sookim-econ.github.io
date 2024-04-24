@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:krishnateja128@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/angrymanxiii"}
-  - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=a7tz-zcAAAAJ&hl=en&inst=14796647662521683374"}
+  - {title: "Google Scholar", icon: google-scholar, url: "https://scholar.google.com/citations?user=a7tz-zcAAAAJ&hl=en&inst=14796647662521683374"}
   # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
