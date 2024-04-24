@@ -1,3 +1,13 @@
+# Research
+## PhD Research
+
+### Oil and Unemployment
+
+### ML Forecasting
+
+### Oil and Monetary Policy (Draft available upon request)
+
+
 ## Pre-PhD Research
 
 Working Paper
