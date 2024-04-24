@@ -12,7 +12,7 @@
 
 Working Paper
 
-"[Firms of a Feather Merge Together: Cultural Proximity and M&A Outcomes](/_uploads/mna_paper.pdf)” with [Manaswini Bhalla](https://manaswinibhalla.weebly.com/), [Manisha Goel](http://manishagoel.weebly.com/) and [Michelle Zemel](https://research.pomona.edu/michelle-zemel/)
+"[Firms of a Feather Merge Together: Cultural Proximity and M&A Outcomes](_uploads/mna_paper.pdf)” with [Manaswini Bhalla](https://manaswinibhalla.weebly.com/), [Manisha Goel](http://manishagoel.weebly.com/) and [Michelle Zemel](https://research.pomona.edu/michelle-zemel/)
 
 **Abstract:** 
 
