@@ -25,7 +25,7 @@ This paper investigates the macroeconomic and monetary policy responses to adver
 
 ## Pre-PhD Research
 
-Working Paper
+### Working Paper
 
 "[Firms of a Feather Merge Together: Cultural Proximity and M&A Outcomes](/uploads/mna_paper.pdf)” with [Manaswini Bhalla](https://manaswinibhalla.weebly.com/), [Manisha Goel](http://manishagoel.weebly.com/) and [Michelle Zemel](https://research.pomona.edu/michelle-zemel/)
 
