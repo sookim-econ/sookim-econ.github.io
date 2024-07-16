@@ -1,9 +1,17 @@
 # Research
 ## PhD Research
 
+### Job Market Paper
+
+"[Forecasting Macroeconomic Variables: A Systematic Comparison of Machine Learning Methods](/uploads/jmp_20240716.pdf)” with [Qian Li](https://www.linkedin.com/in/qian-li-147a40b3)
+
+**Abstract:** 
+
+This paper evaluates the performance of an extensive set of machine learning algorithms in forecasting macroeconomic variables relative to baseline econometric models. We conduct a pseudo-out-of-sample forecast for fifteen real, nominal, and financial variables. The findings can be summarized in three points. First, machine learning models perform better than the benchmark model in forecasting real variables but worse than the baseline models in forecasting nominal variables (price indices) and financial variables. Second, machine learning models forecast better than benchmark models during periods of high volatility, like recessions and the COVID-19 pandemic. Third, models that employ dimension reduction frequently appear in the top five most accurate models in forecasting real variables, especially at longer horizons.
+
 ### Oil and Unemployment
 
-### ML Forecasting
+
 
 ### Oil and Monetary Policy (Draft available upon request)
 
