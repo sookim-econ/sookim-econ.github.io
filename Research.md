@@ -3,7 +3,7 @@
 
 ### Job Market Paper
 
-[Forecasting Macroeconomic Variables: A Systematic Comparison of Machine Learning Methods](/uploads/jmp_20240716.pdf) with [Qian Li](https://www.linkedin.com/in/qian-li-147a40b3)
+[Forecasting Macroeconomic Variables: A Systematic Comparison of Machine Learning Methods](/uploads/Konduri_JMP.pdf) with [Qian Li](https://www.linkedin.com/in/qian-li-147a40b3)
 
 **Abstract:** 
 
