@@ -17,7 +17,7 @@ This paper evaluates the performance of an extensive set of machine learning alg
 
 We utilize local projections to investigate the impact of structural oil price shocks on unemployment rates and spells across the United States, emphasizing both national and state-level variations. Oil supply shocks lead to long-run increases in the national unemployment rate, incidence, and short-term unemployment. In contrast, economic activity shocks reduce all unemployment rates and spells, especially in oil-producing states. Consumption demand shocks have minimal impact on unemployment rates and durations, while inventory demand shocks show only temporary effects on durations.
 
-"[Revisiting the Response of Monetary Policy to Oil Supply Shocks](/uploads/mp_paper_20240716.pdf)”
+"[Revisiting the Response of Monetary Policy to Oil Supply Shocks](/uploads/Chapter_MP_WP.pdf)”
 
 **Abstract:** 
 
