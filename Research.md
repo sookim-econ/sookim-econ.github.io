@@ -1,3 +1,7 @@
+---
+layout: page
+title: Research
+---
 # PhD Research
 
 ## Job Market Paper
