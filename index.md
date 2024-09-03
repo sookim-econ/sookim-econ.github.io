@@ -2,7 +2,7 @@
 layout: page
 title: "Home"
 ---
-I am the Data Strategy fellow at the [Graduate School](https://graduateschool.nd.edu/) and the [Division of Student Affairs](https://studentaffairs.nd.edu) at the University of Notre Dame. I recieved my Ph.D. in Economics from the [Department of Economics](https://economics.nd.edu) at the University of Notre Dame in June, 2024. My primary research interests include Applied Macroeconometrics, Time Series, and Machine Learning Forecasting. [Christiane Baumeister](https://sites.google.com/site/cjsbaumeister/home) is my Ph.D. advisor. I interned at Amazon in the summer of 2023 as an Economist in their Supply Chain Optimization Technologies (SCOT) org.
+I am the Data Strategy Postdoctoral fellow at the [Graduate School](https://graduateschool.nd.edu/) and the [Division of Student Affairs](https://studentaffairs.nd.edu) at the University of Notre Dame. I recieved my Ph.D. in Economics from the [Department of Economics](https://economics.nd.edu) at the University of Notre Dame in June, 2024. My primary research interests include Applied Macroeconometrics, Time Series, and Machine Learning Forecasting. [Christiane Baumeister](https://sites.google.com/site/cjsbaumeister/home) is my Ph.D. advisor. I interned at Amazon in the summer of 2023 as an Economist in their Supply Chain Optimization Technologies (SCOT) org.
 
 **I am on the job market during the 2024-2025 academic year.** [My Job Market Paper](/uploads/Konduri_JMP.pdf) does a comparative study of machine learning models in forecasting Macroecnomic indicators. I am attending NABE-TEC 2024 job fair, and will be open to interview to positions in Tech, Econ-Consulting, and Government jobs.
 
