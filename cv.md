@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Resume
 ---
 You can download my resume [here](/uploads/Konduri_tech_resume.pdf).
 
