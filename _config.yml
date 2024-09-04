@@ -25,6 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:krishnateja128@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/angrymanxiii"}
   - {title: "Google Scholar", icon: google-scholar, url: "https://scholar.google.com/citations?user=a7tz-zcAAAAJ&hl=en&inst=14796647662521683374"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/tejakonduri"}
   # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
