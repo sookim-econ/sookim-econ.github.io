@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Home"
 ---
 I am a Data Strategy Postdoctoral fellow at the [Graduate School](https://graduateschool.nd.edu/) and the [Division of Student Affairs](https://studentaffairs.nd.edu) at the University of Notre Dame. I received my Ph.D. in Economics from the [Department of Economics](https://economics.nd.edu) at the University of Notre Dame in June 2024. My primary research interests include Applied Macroeconometrics, Time Series, and Forecasting using Machine Learning Methods. [Christiane Baumeister](https://sites.google.com/site/cjsbaumeister/home) is my Ph.D. advisor. I interned as an Economist at Amazon Supply Chain Optimization Technologies (SCOT) in the summer of 2023.
 
