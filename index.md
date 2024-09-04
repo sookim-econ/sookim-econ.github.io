@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Home"
+title: "Teja Konduri"
 ---
-I am the Data Strategy Postdoctoral fellow at the [Graduate School](https://graduateschool.nd.edu/) and the [Division of Student Affairs](https://studentaffairs.nd.edu) at the University of Notre Dame. I recieved my Ph.D. in Economics from the [Department of Economics](https://economics.nd.edu) at the University of Notre Dame in June, 2024. My primary research interests include Applied Macroeconometrics, Time Series, and Machine Learning Forecasting. [Christiane Baumeister](https://sites.google.com/site/cjsbaumeister/home) is my Ph.D. advisor. I interned at Amazon in the summer of 2023 as an Economist in their Supply Chain Optimization Technologies (SCOT) org.
+I am a Data Strategy Postdoctoral fellow at the [Graduate School](https://graduateschool.nd.edu/) and the [Division of Student Affairs](https://studentaffairs.nd.edu) at the University of Notre Dame. I received my Ph.D. in Economics from the [Department of Economics](https://economics.nd.edu) at the University of Notre Dame in June 2024. My primary research interests include Applied Macroeconometrics, Time Series, and Forecasting using Machine Learning Methods. [Christiane Baumeister](https://sites.google.com/site/cjsbaumeister/home) is my Ph.D. advisor. I interned as an Economist at Amazon Supply Chain Optimization Technologies (SCOT) in the summer of 2023.
 
 **I am on the job market during the 2024-2025 academic year.** [My Job Market Paper](/uploads/Konduri_JMP.pdf) offers a systematic comparison of the forecasting accuracy of machine learning models in predicting U.S. macroeconomic and financial indicators. I will be attending the NABE TEC 2024 job fair and am open to interviews for positions in the tech industry, economic consulting, and government roles.
 
@@ -12,7 +12,5 @@ Prior to starting my graduate studies at Notre Dame, I was a Research Associate 
 
 <ins>Contact Information:</ins><br>
 Teja Konduri<br>
-117, Bond Hall<br>
-The Graduate School<br>
-University of Notre Dame<br>
-Notre Dame, IN 46556, USA.
+Cell: +1 (574) 220-4841<br>
+Email: krishnateja128@gmail.com<br>
