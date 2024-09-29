@@ -1,5 +1,5 @@
-title: "Teja Konduri"
-author: "Teja Konduri"
+title: "Irakli Shalikashvili"
+author: "Irakli Shalikashvili"
 description: "University of Notre Dame"
 permalink: /:title/
 lang: "en"
@@ -20,12 +20,13 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {file: "readme.md", title: "About me", icon: address-card}
   - {file: "resume.md", title: "Resume"} #, icon: file}
   - {file: "research.md", title: "Research"} #, icon: book-open}
+  - {file: "teaching.md", title: "Teaching"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:krishnateja128@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/angrymanxiii"}
-  - {title: "Google Scholar", icon: google-scholar, url: "https://scholar.google.com/citations?user=a7tz-zcAAAAJ&hl=en&inst=14796647662521683374"}
-  - {title: LinkedIn, icon: linkedin-in, url: "https://www.linkedin.com/in/tejakonduri"}
+  - {title: Mail, icon: envelope, url: "mailto:ishalika@nd.edu"}
+  # - {title: Github, icon: github, url: "https://github.com/angrymanxiii"}
+  # - {title: "Google Scholar", icon: google-scholar, url: "https://scholar.google.com/citations?user=a7tz-zcAAAAJ&hl=en&inst=14796647662521683374"}
+  - {title: LinkedIn, icon: linkedin-in, url: "https://www.linkedin.com/in/iraklishalikashviliphd"}
   # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
