@@ -6,11 +6,11 @@ title: Research
 
 ## Job Market Paper
 
-[Forecasting Macroeconomic Variables: A Systematic Comparison of Machine Learning Methods](/uploads/Konduri_JMP.pdf) with [Qian Li](https://www.linkedin.com/in/qian-li-147a40b3)
+[Monetary Policy Analysis With Heterogeneous Unemployment Dynamics](/uploads/heterogenous_unemployment.pdf) 
 
 **Abstract:** 
 
-This paper evaluates the performance of an extensive set of machine learning algorithms in forecasting macroeconomic variables relative to baseline econometric models. We conduct a pseudo-out-of-sample forecast for fifteen real, nominal, and financial variables. The findings can be summarized in three points. First, machine learning models perform better than the benchmark model in forecasting real variables but worse than the baseline models in forecasting nominal variables (price indices) and financial variables. Second, machine learning models forecast better than benchmark models during periods of high volatility, like recessions and the COVID-19 pandemic. Third, models that employ dimension reduction frequently appear in the top five most accurate models in forecasting real variables, especially at longer horizons.
+My Job Market Paper investigates the heterogeneous response of unemployment rates to unexpected expansionary monetary policy for high- and low-skilled workers, using time-series analysis. I develop a New Keynesian DSGE model with asymmetric search and matching frictions, calibrated to empirical impulse responses. Motivated by these findings, I study optimal monetary policy rules in a framework with sticky prices, asymmetric matching frictions, and real wage rigidities. The results show that the optimal policy should respond to both low- and high-skill unemployment alongside inflation, as addressing the congestion externalities inherent in the labor market is crucial for reducing inefficiencies. A strong response to inflation remains optimal, while responding to output is welfare detrimental.
 
 ## Working Paper
 
