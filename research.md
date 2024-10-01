@@ -14,7 +14,7 @@ This paper investigates the heterogeneous response of unemployment rates to unex
 
 ## Working Paper
 
-[How Much Has the Fed’s New Policy Framework_Contributed to Inflation?](/uploads/research/AIT.pdf) with [Dario Cardamone](https://www.dariocardamone.com/), [Victoria Consolvo](https://economics.nd.edu/people/graduate-students/victoria-consolvo/) and [Eric Sims](https://sites.nd.edu/esims/)
+[How Much Has the Fed’s New Policy Framework Contributed to Inflation?](/uploads/research/AIT.pdf) with [Dario Cardamone](https://www.dariocardamone.com/), [Victoria Consolvo](https://economics.nd.edu/people/graduate-students/victoria-consolvo/) and [Eric Sims](https://sites.nd.edu/esims/)
 
 **Abstract:** 
 
