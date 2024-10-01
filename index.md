@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<img src="/uploads/irakli_3.jpg" width="30%" height="30%" align="left" style="margin-right: 10px;">
+<img src="/uploads/irakli_3.jpg" width="35%" height="35%" align="left" style="margin-right: 10px;">
 
 <ins>Contact Information:</ins><br>
 Irakli Shalikashvili<br>
