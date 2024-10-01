@@ -8,9 +8,9 @@ I am currently a Postdoctoral Teaching Scholar at the [University of Notre Dame]
 
 **I am open to opportunities** in academic research and teaching, as well as roles in research institutes, economic consulting, and government positions.
 
-<img src="/uploads/irakli_3.jpg" width="40%" height="40%" align="left" style="margin-right: 10px;">
+<img src="/uploads/irakli_3.jpg" width="45%" height="45%" align="left" style="margin-right: 10px;">
 
-Before starting my graduate studies at Notre Dame, I was an Instructor at (The University of Georgia](https://www.ug.edu.ge/en) and [European University](https://eu.edu.ge/en), where I taught courses in Microeconomics, Macroeconomics, and International Economics. I also worked as a Research Assistant at the International School of Economics at Tbilisi State University - Policy Institute ([ISET-PI](https://www.iset-pi.ge/en?)), contributing to projects such as Regulatory Impact Assessment (RIA) and the Business Confidence Index. In 2017, I graduated with an M.A. in Mathematics from [Georgian Technical University](https://gtu.ge/en/), and in 2015, I earned an M.A. in Economics from the International School of Economics at Tbilisi State University ([ISET](https://iset.tsu.ge/)). During my Ph.D. at the University of Notre Dame, I also served as an Instructor for Managerial Economics at the Mendoza School of Business.
+Before starting my graduate studies at Notre Dame, I was an Instructor at [The University of Georgia](https://www.ug.edu.ge/en) and [European University](https://eu.edu.ge/en), where I taught courses in Microeconomics, Macroeconomics, and International Economics. I also worked as a Research Assistant at the International School of Economics at Tbilisi State University - Policy Institute ([ISET-PI](https://www.iset-pi.ge/en?)), contributing to projects such as Regulatory Impact Assessment (RIA) and the Business Confidence Index. During my Ph.D. at the University of Notre Dame, I also served as an Instructor for Managerial Economics at the Mendoza School of Business.
 
 <ins>Contact Information:</ins><br>
 Irakli Shalikashvili<br>
