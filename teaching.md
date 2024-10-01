@@ -6,7 +6,7 @@ title: Teaching
 
 ## Principles of Macroeconomics - Instructor of Record
 
-Currently ongoing – evaluation not yet available.
+**Currently ongoing** – evaluation not yet available.
 
 ## Managerial Economics - Instructor of Record (Mendoza College of Business)
 
