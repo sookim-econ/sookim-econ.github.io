@@ -24,4 +24,4 @@ Currently ongoing – evaluation not yet available.
 
 [Spring 2021](/uploads/Instructor_History_macro_2_2021.pdf) (Median Composite Score = 5/5)
 
-[Fall 2020](/uploads/Instructor_History_macro_1_2020.pdf) (Median Composite Score = 5/5)
+[Fall 2020](/uploads/Instructor_History_macro_1_2020.pdf)   (Median Composite Score = 4.7/5)
