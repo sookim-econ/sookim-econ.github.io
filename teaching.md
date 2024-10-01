@@ -10,4 +10,4 @@ Currently ongoing – evaluation not yet available.
 
 ## Managerial Economics - Instructor of Record (Mendoza College of Business)
 
-[Fall 2022](/uploads/research/heterogenous_unemployment.pdf) (Median Composite Score = 4.1/5)
+[Fall 2022](/uploads/Instructor_History_managerial.pdf) (Median Composite Score = 4.1/5)
