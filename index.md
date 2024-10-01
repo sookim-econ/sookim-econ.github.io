@@ -1,14 +1,16 @@
 ---
 layout: page
 ---
-<img src="/uploads/irakli_3.jpg" width="4%" height="4%" align="left" style="margin-right: 10px;">
-
-I am currently a Postdoctoral Teaching Scholar at the [University of Notre Dame](https://www.nd.edu/). I received my Ph.D. in Economics from the [Department of Economics](https://economics.nd.edu) at Notre Dame in May 2024. My research focuses on the intersection of monetary policy and economic dynamics, with an emphasis on labor markets, inflation expectations, and the extensive margin of the production sector. My Ph.D. advisors are [Eric Sims](https://sites.nd.edu/esims/) and [Jeffrey Campbell](https://sites.google.com/nd.edu/jrcampbell/home).
+<img src="/uploads/irakli_3.jpg" width="40%" height="40%" align="left" style="margin-right: 10px;">
 
 <ins>Contact Information:</ins><br>
 Irakli Shalikashvili<br>
 Cell: +1 (574) 334-6280<br>
 Email: ishalika@nd.edu<br>
+
+I am currently a Postdoctoral Teaching Scholar at the [University of Notre Dame](https://www.nd.edu/). I received my Ph.D. in Economics from the [Department of Economics](https://economics.nd.edu) at Notre Dame in May 2024. My research focuses on the intersection of monetary policy and economic dynamics, with an emphasis on labor markets, inflation expectations, and the extensive margin of the production sector. My Ph.D. advisors are [Eric Sims](https://sites.nd.edu/esims/) and [Jeffrey Campbell](https://sites.google.com/nd.edu/jrcampbell/home).
+
+
 
 **I am participating in the job market for the 2024-2025 academic year.** [My Job Market Paper](/uploads/research/heterogenous_unemployment.pdf) examines the heterogeneous response of unemployment rates to unexpected expansionary monetary policy for high- and low-skilled workers using time-series analysis. I develop a New Keynesian DSGE model with asymmetric search and matching frictions, calibrated to empirical impulse responses, and find that optimal monetary policy should respond to both skill-specific unemployment and inflation due to congestion externalities in the labor market. A strong response on inflation remains optimal, while responding to output shows to reduce overall welfare. 
 
