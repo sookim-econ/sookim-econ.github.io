@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 ---
 You can download my CV [here](/uploads/cv_IS.pdf). 
 
