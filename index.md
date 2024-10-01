@@ -3,11 +3,6 @@ layout: page
 ---
 <img src="/uploads/irakli_3.jpg" width="35%" height="35%" align="left" style="margin-right: 10px;">
 
-<ins>Contact Information:</ins><br>
-Irakli Shalikashvili<br>
-Cell: +1 (574) 334-6280<br>
-Email: ishalika@nd.edu<br>
-
 I am currently a Postdoctoral Teaching Scholar at the [University of Notre Dame](https://www.nd.edu/). I received my Ph.D. in Economics from the [Department of Economics](https://economics.nd.edu) at Notre Dame in May 2024. My research focuses on the intersection of monetary policy and economic dynamics, with an emphasis on labor markets, inflation expectations, and the extensive margin of the production sector. My Ph.D. advisors are [Eric Sims](https://sites.nd.edu/esims/) and [Jeffrey Campbell](https://sites.google.com/nd.edu/jrcampbell/home).
 
 
@@ -17,3 +12,7 @@ I am open to opportunities in academic research and teaching, as well as roles i
 
 Before starting my graduate studies at Notre Dame, I was an Instructor at [The University of Georgia](https://www.ug.edu.ge/en) and [European University](https://eu.edu.ge/en), where I taught courses in Microeconomics, Macroeconomics, and International Economics. I also worked as a Research Assistant at the International School of Economics at Tbilisi State University - Policy Institute ([ISET-PI](https://www.iset-pi.ge/en?)), contributing to projects such as Regulatory Impact Assessment (RIA) and the Business Confidence Index. During my Ph.D. at the University of Notre Dame, I also served as an Instructor for Managerial Economics at the Mendoza School of Business.
 
+<ins>Contact Information:</ins><br>
+Irakli Shalikashvili<br>
+Cell: +1 (574) 334-6280<br>
+Email: ishalika@nd.edu<br>
