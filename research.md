@@ -10,7 +10,7 @@ title: Research
 
 **Abstract:** 
 
-My Job Market Paper investigates the heterogeneous response of unemployment rates to unexpected expansionary monetary policy for high- and low-skilled workers, using time-series analysis. I develop a New Keynesian DSGE model with asymmetric search and matching frictions, calibrated to empirical impulse responses. Motivated by these findings, I study optimal monetary policy rules in a framework with sticky prices, asymmetric matching frictions, and real wage rigidities. The results show that the optimal policy should respond to both low- and high-skill unemployment alongside inflation, as addressing the congestion externalities inherent in the labor market is crucial for reducing inefficiencies. A strong response to inflation remains optimal, while responding to output tend to reduce the welfare.
+This paper investigates the heterogeneous response of unemployment rates to unexpected expansionary monetary policy for high- and low-skilled workers, using time-series analysis. I develop a New Keynesian DSGE model with asymmetric search and matching frictions, calibrated to empirical impulse responses. Motivated by these findings, I study optimal monetary policy rules in a framework with sticky prices, asymmetric matching frictions, and real wage rigidities. The results show that the optimal policy should respond to both low- and high-skill unemployment alongside inflation, as addressing the congestion externalities inherent in the labor market is crucial for reducing inefficiencies. A strong response to inflation remains optimal, while responding to output tend to reduce the welfare.
 
 ## Working Paper
 
