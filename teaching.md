@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 ---
-# Teaching During Ph.D.
+# Teaching During Ph.D. (Notre Dame, IN)
 
 ## Principles of Macroeconomics - Instructor of Record
 
@@ -27,3 +27,9 @@ title: Teaching
 ## Tutor for Macroeconomic Theory I (graduate level)
 
 [Fall 2020](/uploads/Instructor_History_macro_1_2020.pdf)   (Median Composite Score = 4.7/5)
+
+# Teaching Before Ph.D. (University of Georgia, Tbilisi, Georgia)
+
+## Principles of Microeconomics - Instructor
+
+Fall (2017,2016,2015); Spring (2018,2017,2016)
