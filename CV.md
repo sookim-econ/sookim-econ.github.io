@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: <span style="color:#1565C0">Curriculum Vitae </span> 
 ---
 You can download my CV from [here](/uploads/cv_irakli_shalikashvili.pdf). 
 
