@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-##  <span style="color:#1E88E5"> University of Notre Dame</span>
+## University of Notre Dame
 
 ## Tutor for Statistics for Economics (undergraduate level)
 [Spring 2023](/uploads/Class_Report_Stats.pdf) (Median Composite Score = 5/5)
@@ -24,7 +24,7 @@ title: Teaching
 * Macroeconomic Expectations
 
 
-## <span style="color:#1E88E5"> Sunkyunkwan University </span>
+## Sunkyunkwan University 
 
 ## Teaching Assistant
 * Mathematics for Economists
