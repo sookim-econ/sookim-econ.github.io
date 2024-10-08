@@ -2,8 +2,9 @@
 layout: page
 title: Teaching
 ---
-# <span style="color:#4B0082"> Teaching During Ph.D. (Notre Dame, IN)</span>
+# <span style="color:#4B0082"> Teaching During Ph.D.</span>
 
+##  The University of Notre Dame, IN
 ## Principles of Macroeconomics - Instructor of Record
 **Currently ongoing** – evaluation not yet available.
 
