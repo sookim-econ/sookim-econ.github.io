@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 ---
-# <span style="color:blue"> Teaching During Ph.D. (Notre Dame, IN)</span>
+# <span style="color:#add8e6"> Teaching During Ph.D. (Notre Dame, IN)</span>
 
 ## Principles of Macroeconomics - Instructor of Record
 **Currently ongoing** – evaluation not yet available.
@@ -21,7 +21,7 @@ title: Teaching
 ## Tutor for Macroeconomic Theory I (graduate level)
 [Fall 2020](/uploads/Instructor_History_macro_1_2020.pdf)   (Median Composite Score = 4.7/5)
 
-# Teaching Before Ph.D. 
+# <span style="color:LightSkyBlue"> Teaching Before Ph.D. </span>
 
 ## University of Georgia (Tbilisi, Georgia)
 
