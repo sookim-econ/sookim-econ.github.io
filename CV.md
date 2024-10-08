@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <span style="color:#1565C0">Curriculum Vitae </span> 
+title: Curriculum Vitae
 ---
 You can download my CV from [here](/uploads/CV.pdf). 
 
