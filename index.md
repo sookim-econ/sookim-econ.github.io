@@ -4,7 +4,7 @@ layout: page
 
 **I am participating in the job market for the 2024-2025 academic year.** 
 
-<img src="/uploads/irakli_3.jpg" width="35%" height="35%" align="left" style="margin-right: 10px;">
+<img src="/uploads/20240926 JLH Irakli Shalikashvili-002.jpg" width="35%" height="35%" align="left" style="margin-right: 10px;">
 
 I am currently a Postdoctoral Teaching Scholar at the [University of Notre Dame](https://www.nd.edu/). I received my Ph.D. in Economics from the [Department of Economics](https://economics.nd.edu) at Notre Dame in May 2024. My research focuses on the intersection of monetary policy and economic dynamics, with an emphasis on labor markets, inflation expectations, and the extensive margin of the production sector. My Ph.D. advisors are [Eric Sims](https://sites.nd.edu/esims/) and [Jeffrey Campbell](https://sites.google.com/nd.edu/jrcampbell/home).
 
