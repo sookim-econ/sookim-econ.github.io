@@ -4,7 +4,7 @@ layout: page
 
 <span style="font-size: 25px; color:#1565C0;"><strong>I am participating in the job market for the 2024-2025 academic year.</strong></span>
 
-<img src="/uploads/20240926 JLH Irakli Shalikashvili-002.jpg" width="35%" height="35%" align="left" style="margin-right: 10px;">
+<img src="/uploads/20240926 JLH Soo Kim-004.jpg" width="35%" height="35%" align="left" style="margin-right: 10px;">
 
 I am currently a Ph.D. candidate at the [University of Notre Dame](https://www.nd.edu/). I plan to received\ my Ph.D. in Economics from the [Department of Economics](https://economics.nd.edu) at Notre Dame in May 2025. My research focuses on the intersection of economic development and macroeconomics, with an emphasis on structural transformation, industrialization, and policy evaluation. My Ph.D. advisors are [Joseph Kaboski](https://www3.nd.edu/~jkaboski/)), [Benjamin Pugsley](https://www.benjaminpugsley.com) and [Jasmine Xiao](https://jasmine-xiao.com).
 
