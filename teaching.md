@@ -16,10 +16,18 @@ title: Teaching
 [Fall 2020](/uploads/Class_Report_Micro_I.pdf)   (Median Composite Score = 4.5/5)
 
 ## Teaching Assistant
-Principles of Microeconomics, Principles of Macroeconomics, Economics of Housing, Money, Banking and Housing Market, Econometrics, Macroeconomic Expectations.
+* Principles of Microeconomics
+* Principles of Macroeconomics
+* Economics of Housing
+* Money, Banking and Housing Market
+* Econometrics
+* Macroeconomic Expectations
 
 
 ## <span style="color:#1E88E5"> Sunkyunkwan University </span>
 
 ## Teaching Assistant
-Mathematics for Economists, Economics Research in Practice, Financial Economics, Macroeconomics.
+* Mathematics for Economists
+* Economics Research in Practice
+* Financial Economics
+* Macroeconomics
