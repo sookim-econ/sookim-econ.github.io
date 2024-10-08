@@ -1,5 +1,5 @@
-title: "Irakli Shalikashvili"
-author: "Irakli Shalikashvili"
+title: "Soo Kim"
+author: "Soo Kim"
 description: "University of Notre Dame"
 permalink: /:title/
 lang: "en"
@@ -23,10 +23,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "teaching.md", title: "Teaching"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:ishalika@nd.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:skim48@nd.edu"}
   # - {title: Github, icon: github, url: "https://github.com/angrymanxiii"}
   # - {title: "Google Scholar", icon: google-scholar, url: "https://scholar.google.com/citations?user=a7tz-zcAAAAJ&hl=en&inst=14796647662521683374"}
-  - {title: LinkedIn, icon: linkedin-in, url: "https://www.linkedin.com/in/iraklishalikashviliphd"}
+  # - {title: LinkedIn, icon: linkedin-in, url: "https://www.linkedin.com/in/iraklishalikashviliphd"}
   # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
