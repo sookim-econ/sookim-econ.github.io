@@ -12,6 +12,7 @@ I am currently a Postdoctoral Teaching Scholar at the [University of Notre Dame]
 
 I am open to opportunities in academic research and teaching, as well as roles in research institutes, economic consulting, and government positions.
 
+<br>
 
 Before starting my graduate studies at Notre Dame, I was an Instructor at [The University of Georgia](https://www.ug.edu.ge/en) and [European University](https://eu.edu.ge/en), where I taught courses in Microeconomics, Macroeconomics, and International Economics. I also worked as a Research Assistant at the International School of Economics at Tbilisi State University - Policy Institute ([ISET-PI](https://www.iset-pi.ge/en?)), contributing to projects such as Regulatory Impact Assessment (RIA) and the Business Confidence Index. During my Ph.D. at the University of Notre Dame, I also served as an instructor for Managerial Economics at the Mendoza School of Business.
 
