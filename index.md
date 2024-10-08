@@ -13,7 +13,7 @@ I am currently a Ph.D. candidate at the [University of Notre Dame](https://www.n
 I am open to opportunities in academic research and teaching, as well as roles in research institutes, economic consulting, and government positions.
 
 <br>
-Before starting my graduate studies at Notre Dame, I  worked as a Teaching Assistant and Research Assistant at the Sungkyunkwan University, Seoul. ([SKKU](https://skku.edu/eng)). During my Ph.D. at the University of Notre Dame, I also served as an Teaching Assistant and Tutorial Instructor for the Department of Economics.
+Before starting my graduate studies at Notre Dame, I  worked as a Teaching Assistant and Research Assistant at the Sungkyunkwan University, Seoul. ( [SKKU](https://skku.edu/eng) ). During my Ph.D. at the University of Notre Dame, I also served as an Teaching Assistant and Tutorial Instructor for the Department of Economics.
 
 **<ins>Contact Information:</ins><br>**
 Soo Kim<br>
