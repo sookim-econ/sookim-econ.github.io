@@ -11,7 +11,9 @@ I am currently a Postdoctoral Teaching Scholar at the [University of Notre Dame]
 [My Job Market Paper](/uploads/research/heterogenous_unemployment.pdf) examines the heterogeneous response of unemployment rates to unexpected expansionary monetary policy for high- and low-skilled workers using time-series analysis. I develop a New Keynesian DSGE model with asymmetric search and matching frictions, calibrated to empirical impulse responses, and find that optimal monetary policy should respond to both skill-specific unemployment and inflation due to congestion externalities in the labor market. A strong response on inflation remains optimal, while responding to output shows to reduce overall welfare. 
 
 I am open to opportunities in academic research and teaching, as well as roles in research institutes, economic consulting, and government positions.
+
 <span style="margin-right: 8em;"></span>
+
 Before starting my graduate studies at Notre Dame, I was an Instructor at [The University of Georgia](https://www.ug.edu.ge/en) and [European University](https://eu.edu.ge/en), where I taught courses in Microeconomics, Macroeconomics, and International Economics. I also worked as a Research Assistant at the International School of Economics at Tbilisi State University - Policy Institute ([ISET-PI](https://www.iset-pi.ge/en?)), contributing to projects such as Regulatory Impact Assessment (RIA) and the Business Confidence Index. During my Ph.D. at the University of Notre Dame, I also served as an instructor for Managerial Economics at the Mendoza School of Business.
 
 **<ins>Contact Information:</ins><br>**
