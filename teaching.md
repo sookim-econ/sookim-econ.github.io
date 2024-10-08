@@ -22,7 +22,7 @@ title: Teaching
 ## Tutor for Macroeconomic Theory I (graduate level)
 [Fall 2020](/uploads/Instructor_History_macro_1_2020.pdf)   (Median Composite Score = 4.7/5)
 
-# <span style="color:##1565C0"> Teaching Before Ph.D. </span>
+# <span style="color:#1565C0"> Teaching Before Ph.D. </span>
 
 ## University of Georgia (Tbilisi, Georgia)
 
