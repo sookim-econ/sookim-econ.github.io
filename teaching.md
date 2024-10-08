@@ -29,7 +29,24 @@ title: Teaching
 **Fall (2017,2016,2015); Spring (2018,2017,2016)**
 
 ## Intermediate Microeconomics I - Instructor
-**Fall (Fall 2016)**
+**Fall 2016**
 
-## Intermediate Microeconomics I - Instructor
-**Fall (Fall 2016)**
+## Intermediate Microeconomics II - Instructor
+**Fall 2017; Spring 2018**
+
+## Industrial Organization - Instructor
+**Fall 2018**
+
+## International Economics I - Instructor
+**Fall 2017; Spring 2018**
+
+## International Economics I - Instructor
+**Spring 2016**
+
+## European University (Tbilisi, Georgia)
+
+## Principles of Macroeconomics - Instructor
+**Spring 2017**
+
+## Managerial Economics, Graduate - Instructor
+**Fall 2018; Spring 2017**
