@@ -4,7 +4,7 @@ title: Teaching
 ---
 # <span style="color:#1565C0"> Teaching During Ph.D.</span>
 
-##  The University of Notre Dame, IN
+##  <span style="color:#1E88E5"> The University of Notre Dame, IN</span>
 ## Principles of Macroeconomics - Instructor of Record
 **Currently ongoing** – evaluation not yet available.
 
@@ -24,7 +24,7 @@ title: Teaching
 
 # <span style="color:#1565C0"> Teaching Before Ph.D. </span>
 
-## University of Georgia (Tbilisi, Georgia)
+## <span style="color:#1E88E5"> University of Georgia (Tbilisi, Georgia) </span>
 
 ## Principles of Microeconomics - Instructor
 **Fall (2017,2016,2015); Spring (2018,2017,2016)**
@@ -44,7 +44,7 @@ title: Teaching
 ## International Economics I - Instructor
 **Spring 2016**
 
-## European University (Tbilisi, Georgia)
+## <span style="color:#1E88E5"> European University (Tbilisi, Georgia) </span>
 
 ## Principles of Macroeconomics - Instructor
 **Spring 2017**
