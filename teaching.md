@@ -15,9 +15,11 @@ title: Teaching
 ## Tutor for Microeconomic Theory I (graduate level)
 [Fall 2020](/uploads/Class Report Micro I.pdf)   (Median Composite Score = 4.5/5)
 
-## Teaching Assistant for Principles of Microeconomics, Principles of Macroeconomics, Economics of Housing, Money, Banking and Housing Market, Econometrics, Macroeconomic Expectations.
+## Teaching Assistant
+for Principles of Microeconomics, Principles of Macroeconomics, Economics of Housing, Money, Banking and Housing Market, Econometrics, Macroeconomic Expectations.
 
 
 ## <span style="color:#1E88E5"> Sunkyunkwan University </span>
 
-## Teaching Assistant for Mathematics for Economists, Economics Research in Practice, Financial Economics, Macroeconomics/
+## Teaching Assistant
+for Mathematics for Economists, Economics Research in Practice, Financial Economics, Macroeconomics.
