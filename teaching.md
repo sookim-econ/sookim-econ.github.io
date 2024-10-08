@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-##  <span style="color:#1E88E5"> The University of Notre Dame (Notre Dame, IN)</span>
+##  <span style="color:#1E88E5"> University of Notre Dame</span>
 
 ## Tutor for Statistics for Economics (undergraduate level)
 [Spring 2023](/uploads/Class Report Stats.pdf) (Median Composite Score = 5/5)
