@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<span style="font-size: 15px; color:#1565C0;"><strong>I am participating in the job market for the 2024-2025 academic year.</strong></span>
+<span style="font-size: 25px; color:#1565C0;"><strong>I am participating in the job market for the 2024-2025 academic year.</strong></span>
 
 <img src="/uploads/20240926 JLH Irakli Shalikashvili-002.jpg" width="35%" height="35%" align="left" style="margin-right: 10px;">
 
