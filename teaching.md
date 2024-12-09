@@ -20,7 +20,7 @@ title: Teaching
 * Macroeconomic Expectations
 
 
-## Sunkyunkwan University 
+## Sungkyunkwan University 
 
 ### Teaching Assistant
 * Mathematics for Economists
